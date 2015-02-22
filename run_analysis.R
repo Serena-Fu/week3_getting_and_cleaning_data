@@ -53,6 +53,8 @@ aggr.data <- data.with.label %>%
 	summarise_each(funs(mean))
 ## answer to queston #5
 aggr.data
+
+write.csv(aggr.data, file = "mean_by_id_activity.csv", row.names = F)
 	
 
 

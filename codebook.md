@@ -14,3 +14,7 @@ The code peforms the following tasks
 ## Downloading the data
 
 Please download the zip file first[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip] 
+
+## final output
+
+The final output of the tidy dataset is called `mean_by_id_activity.csv`.
